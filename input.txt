@@ -1,0 +1,6 @@
+"the   string is     kkk 
+      kkk
+string line 3
+string lineeee4
+string lineee5
+
